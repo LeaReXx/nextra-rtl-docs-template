@@ -11,7 +11,7 @@ This starter template includes the following features:
 
 [**Live Demo →**](https://nextra-rtl-docs-template.vercel.app/)
 
-![alt text](screencapture.png)
+![Demo Image](.github/screencapture.png)
 
 ## Quick Start
 
