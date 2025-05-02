@@ -1,4 +1,4 @@
-# Nextra Docs Starter
+# Nextra RTL Docs Starter
 
 This starter template includes the following features:
 
