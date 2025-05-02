@@ -26,7 +26,7 @@ You can deploy this template on Vercel by clicking the button below
 Using the Terminal:
 
 ```bash
-gh repo clone phucbm/nextra-docs-starter
+git clone https://github.com/LeaReXx/nextra-rtl-docs-template.git
 ```
 
 ### Install

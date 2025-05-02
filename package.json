@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "module",
-    "url": "https://github.com/phucbm/nextra-docs-starter"
+    "url": "https://github.com/LeaReXx/nextra-rtl-docs-template"
   },
-  "author": "PHUCBM",
+  "author": "Sepehr Aghapour",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phucbm/nextra-docs-starter/issues"
+    "url": "https://github.com/LeaReXx/nextra-rtl-docs-template/issues"
   },
-  "homepage": "https://github.com/phucbm/nextra-docs-starter#readme",
+  "homepage": "https://github.com/LeaReXx/nextra-rtl-docs-template#readme",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.5",
     "lucide": "^0.479.0",
