@@ -1,0 +1,13 @@
+// Simple service worker example
+self.addEventListener('install', event => {
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', event => {
+  self.clients.claim();
+});
+
+self.addEventListener('fetch', event => {
+  // You can customize caching here
+  // event.respondWith(...)
+});
