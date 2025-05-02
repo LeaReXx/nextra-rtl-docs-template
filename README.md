@@ -6,6 +6,7 @@ This starter template includes the following features:
 - [x] **Next JS 15**
 - [x] **Search with Pagefind**
 - [x] **RTL Support**
+- [x] **Tailwind Added**
 - [x] **Lucide Icons**
 - [x] **Vazirmatn Font**
 
